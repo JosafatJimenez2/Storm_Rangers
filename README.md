@@ -1,4 +1,4 @@
-
+![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/panel.png)
 <h1>Storm Rangers🌩️</h1>
 <div>
 	<h2>Problematica🚩🚩🚩</h2>
