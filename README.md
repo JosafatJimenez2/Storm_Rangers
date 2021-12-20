@@ -19,10 +19,26 @@
   <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/cb5acfaabc758cef9b693835d91a15d764501860/Diagrama.png" width="350" title="hover text">
 </p>
 <h2>SLA Compuesto💸</h2>
+<p>
+99,99 % -- sla virtual machine
+
+99.95% -- SLA app service
+
+99,9 % -- azure analysis services
+
+Iot hub 99,9 %
+
+TOTAL DE 99.74%</p>
 <h2>TCO 3 años y Precio Total por mes💸</h2>
 ![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/ARCHIVOS/Calculadora_Azure.pdf)
 ![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/ARCHIVOS/ExportedEstimate.xlsx)
 <h2>Tiempo sin disponibilidad a un año⌛</h2>
+
+<p>//////////////////////
+	Escribe aqui
+   //////////////////////
+</p>
+
 <h2>Qué te pareció el evento✨</h2>
 <p>
 Para todo el equipo, nos parecio una gran oportunidadal recibirnos en este ciclo de invierno, de aqui nos vamos con una gran sabor de boca con todo lo que hemos aprendido 	   durante este mes; ahora sabemos que podemos implementar la nube diversos problemas que se nos presenten.
