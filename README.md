@@ -35,7 +35,7 @@ TOTAL DE 99.74%</p>
 <h2>Tiempo sin disponibilidad a un año⌛</h2>
 
 <p>//////////////////////
-	Escribe aqui
+	Disponibilidad anual 364.051 dias
    //////////////////////
 </p>
 
