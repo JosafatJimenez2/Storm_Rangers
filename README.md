@@ -13,7 +13,8 @@
 	<h2>Link de nuestro TikTok:🔗</h2>
 	[https://www.tiktok.com/@hacktutos/video/7043603581018148101?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7039132739699049990](Link)
 </div>
-
+<h2>Enlace a Programa en Azure</h2>
+<p>Debido a la prisa de la entrega se envio un enlace erroneo de nuestra app en azure , por este medio enviamos nuestra app de visualizacion  https://casaprueba.azurewebsites.net/</p>
 <h2>Diagrama de Azure🗺️</h2>
 <p align="center">
   <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/cb5acfaabc758cef9b693835d91a15d764501860/Diagrama.png" width="350" title="hover text">
@@ -48,8 +49,8 @@ Esta es nuestra primera vez en un hackaton y podemos decir que estamos usando az
 <h2>Capturas</h2>
 <p align="center">
   <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app1.jpg" width="350" title="hover text">
-</p>)
+</p>
 
 <p align="center">
   <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app2.jpg" width="350" title="hover text">
-</p>)
+</p>
