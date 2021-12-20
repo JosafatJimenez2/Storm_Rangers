@@ -11,11 +11,11 @@
 
 <div>
 	<h2>Link de nuestro TikTok:🔗</h2>
-	[http://tiktok.com](http://tiktok.com)
+	[https://www.tiktok.com/@hacktutos/video/7043603581018148101?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7039132739699049990](Link)
 </div>
 <div>
 	<h2>Diagrama de Azure🗺️</h2>
-	(https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Diagrama.png)
+	![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Diagrama.png)
 	<h2>SLA Compuesto💸</h2>
 	<h2>TCO 3 años y Precio Total por mes💸</h2>
 	<h2>Tiempo sin disponibilidad a un año⌛</h2>
