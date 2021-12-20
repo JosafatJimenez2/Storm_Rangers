@@ -1,5 +1,6 @@
 ![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/panel.png)
 <h1>Storm Rangers🌩️</h1>
+"Si vas a vacacionar, que alguien cuide tu hogar!!!"
 <div>
 	<h2>Problematica🚩🚩🚩</h2>
 	<p>Cuando quieres salir de vacaciones te encuentras con la necesidad de dejar solo tu 		hogar, aquí te encuentras con el temor de que tu casa sea robada por algun amante de 		lo ajeno ademas de que si tienes mascotas tienes otro problema debido a la 		alimentacion de la misma.</p>
@@ -20,8 +21,8 @@
 	<h2>Qué te pareció el evento✨</h2>
 	<p>
 	Para todo el equipo, nos parecio una gran oportunidadal recibirnos en este ciclo de invierno, de aqui nos vamos con una gran sabor de boca con todo lo que hemos aprendido 	   durante este mes; ahora sabemos que podemos implementar la nube diversos problemas que se nos presenten.
-	Esta es nuestra primera vez en un hackaton y podemos decir que estamos usando azure de una manera eficiente para resolver una problematica, ademas de que aprendimos cosas         nuevas como lo es el colaborar en equipo.
+	Esta es nuestra primera vez en un hackaton y podemos decir que estamos usando azure de una manera eficiente para resolver una problematica, ademas de que aprendimos cosas         nuevas como lo es el colaborar en equipo.</p>
 	
-	Por todo esto gracias por parte de los Storm Rangers y 🎄Feliz Navidad!!!🎅
-	</p>
+	"Por todo esto gracias por parte de los Storm Rangers y 🎄Feliz Navidad!!!🎅"
+	
 </div>
