@@ -26,5 +26,6 @@ Para todo el equipo, nos parecio una gran oportunidadal recibirnos en este ciclo
 Esta es nuestra primera vez en un hackaton y podemos decir que estamos usando azure de una manera eficiente para resolver una problematica, ademas de que aprendimos cosas         nuevas como lo es el colaborar en equipo.</p>
 	
 "Por todo esto gracias por parte de los Storm Rangers y 🎄Feliz Navidad!!!🎅"
-	
-
+<h2>Capturas</h2>
+![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app1.jpg)
+![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app2.jpg)
