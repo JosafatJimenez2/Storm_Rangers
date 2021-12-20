@@ -15,7 +15,9 @@
 </div>
 
 <h2>Diagrama de Azure🗺️</h2>
-![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Diagrama.png)
+<p align="center">
+  <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/cb5acfaabc758cef9b693835d91a15d764501860/Diagrama.png" width="350" title="hover text">
+</p>
 <h2>SLA Compuesto💸</h2>
 <h2>TCO 3 años y Precio Total por mes💸</h2>
 ![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/ARCHIVOS/Calculadora_Azure.pdf)
@@ -28,5 +30,10 @@ Esta es nuestra primera vez en un hackaton y podemos decir que estamos usando az
 	
 "Por todo esto gracias por parte de los Storm Rangers y 🎄Feliz Navidad!!!🎅"
 <h2>Capturas</h2>
-![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app1.jpg)
-![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app2.jpg)
+<p align="center">
+  <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app1.jpg" width="350" title="hover text">
+</p>)
+
+<p align="center">
+  <img src="https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Capturas/app2.jpg" width="350" title="hover text">
+</p>)
