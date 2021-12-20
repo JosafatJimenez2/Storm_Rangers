@@ -18,6 +18,7 @@
 ![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/Diagrama.png)
 <h2>SLA Compuesto💸</h2>
 <h2>TCO 3 años y Precio Total por mes💸</h2>
+![](https://github.com/JosafatJimenez2/Storm_Rangers/blob/main/ARCHIVOS/Calculadora_Azure.pdf)
 <h2>Tiempo sin disponibilidad a un año⌛</h2>
 <h2>Qué te pareció el evento✨</h2>
 <p>
